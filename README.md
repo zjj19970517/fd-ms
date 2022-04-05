@@ -1,24 +1,11 @@
 # fd-ms
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 文档整理
 
-### Lints and fixes files
-```
-npm run lint
-```
+### store
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://github.com/accforgit/blog-data/tree/master/shopping-cart
+http://soiiy.com/Vue-js/16469.html
+https://vuex.vuejs.org/zh/guide/typescript-support.html

@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+    "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  color: #333;
+}
+
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+blockquote,
+figure,
+ol,
+ul,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: normal;
+  font-size: inherit;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a,
+button {
+  color: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  overflow: visible;
+  border: 0;
+  background: none;
+  letter-spacing: inherit;
+  font: inherit;
+  outline: 0;
+}
+
+input {
+  outline: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: normal;
+}
